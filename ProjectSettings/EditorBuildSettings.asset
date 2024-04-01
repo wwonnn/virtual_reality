@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/EX_MultiPlayer_DisplayUserName/EX_MultiPlayer_DisplayUserName.unity
-    guid: 356d670bc8808d8489c65564d6466fcc
+    path: Assets/assignment2/assignment2.unity
+    guid: 23a2367ac8988c94b95d9743d74f7dd0
+  - enabled: 1
+    path: Assets/assignment2/changeScene.unity
+    guid: c7586dea352c5744c82b7c8c72dd5822
   m_configObjects: {}
